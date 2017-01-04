@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/superbil
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://superbil.github.io
+  * I am superbil (https://keybase.io/superbil) on keybase.
+  * I have a public key ASCGPyoXzxnxsUkX1-bPSXyhqRBMJ4wkLU9o6X76e1GuaAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010120a20fa3593c423b5756fb745f09090c142fcd4d2a956c62bc4d62f36fd51c440a",
+            "host": "keybase.io",
+            "kid": "0120863f2a17cf19f1b14917d7e6cf497ca1a9104c278c242d4f68e97efa7b51ae680a",
+            "uid": "12ff36a2c7b489c3c97fb2750f271300",
+            "username": "superbil"
+        },
+        "service": {
+            "hostname": "superbil.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1483569357,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1483569297,
+        "hash": "134aae79854812d7a7db56c07b9d3ad090eafb2ead2203c274cb6d6c43671f437d66b28cde2f926d13201b12232a177d347b83e76e66739219f3fe11ef9f33f5",
+        "seqno": 785977
+    },
+    "prev": "2ee5431bb3768105bcf2cdb25b7daa7cdfc4d5cf013242fa56e8a7d3679aa597",
+    "seqno": 40,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEghj8qF88Z8bFJF9fmz0l8oakQTCeMJC1PaOl++ntRrmgKp3BheWxvYWTFAvt7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxMjBhMjBmYTM1OTNjNDIzYjU3NTZmYjc0NWYwOTA5MGMxNDJmY2Q0ZDJhOTU2YzYyYmM0ZDYyZjM2ZmQ1MWM0NDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwODYzZjJhMTdjZjE5ZjFiMTQ5MTdkN2U2Y2Y0OTdjYTFhOTEwNGMyNzhjMjQyZDRmNjhlOTdlZmE3YjUxYWU2ODBhIiwidWlkIjoiMTJmZjM2YTJjN2I0ODljM2M5N2ZiMjc1MGYyNzEzMDAiLCJ1c2VybmFtZSI6InN1cGVyYmlsIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJzdXBlcmJpbC5naXRodWIuaW8iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xOCJ9LCJjdGltZSI6MTQ4MzU2OTM1NywiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDgzNTY5Mjk3LCJoYXNoIjoiMTM0YWFlNzk4NTQ4MTJkN2E3ZGI1NmMwN2I5ZDNhZDA5MGVhZmIyZWFkMjIwM2MyNzRjYjZkNmM0MzY3MWY0MzdkNjZiMjhjZGUyZjkyNmQxMzIwMWIxMjIzMmExNzdkMzQ3YjgzZTc2ZTY2NzM5MjE5ZjNmZTExZWY5ZjMzZjUiLCJzZXFubyI6Nzg1OTc3fSwicHJldiI6IjJlZTU0MzFiYjM3NjgxMDViY2YyY2RiMjViN2RhYTdjZGZjNGQ1Y2YwMTMyNDJmYTU2ZThhN2QzNjc5YWE1OTciLCJzZXFubyI6NDAsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAMKGMrVodoen0X+V55O/WNZ5F2AYpZXz2x7KPY6ESUCoWI0Lc3Q5on55B+JRAr8LfpRWraIp1vtMyFi86Rh29CahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILLXFVfBMlC7Rkz42MgNuJGJTGVoGE1Ad7jZ61FLJrGSo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/superbil
+
+==================================================================
